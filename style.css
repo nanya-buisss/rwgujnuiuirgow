@@ -1,0 +1,42 @@
+body
+{
+    font-family: 'Roboto Mono', monospace;
+    background: #03d5ff;
+}
+
+.header_div
+{
+    background: white;
+    color: #3e00ce;
+}
+
+.header_div p
+{
+ font-family: 'Akshar', sans-serif;
+ color: rgb(0, 167, 209);
+ letter-spacing: 2px;
+ font-size: 20px;
+ font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: 'Akshar', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(140, 0, 255);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 2px rgb(151, 149, 149);
+}
